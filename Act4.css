@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Dramaturgia';
+    src: url('Playwrite_IN/PlaywriteIN-VariableFont_wght.ttf') format('woff2'),
+         url('Playwrite_IN/PlaywriteIN-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+poster
+{
+    display: flex;
+    width: 500px;
+    min-height: 700px;
+    justify-content: center;
+}
+
+imagen
+{
+    background-image: url(bigFish.png);
+    background-size: 100% 100%;
+}
+
+actores
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+actor1, actor2, actor3, actor4
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+nombre, apellido
+{
+    display: flex;
+    justify-content: center;
+}
+
+informacion
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90%;
+}
+
+texto
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-bottom: 500px;
+}
+
+texto2
+{
+    text-align: center;
+}
+
+director
+{
+    justify-content: flex-start;
+    font-size: 23px;
+}
+
+
+slogan
+{
+    font-family: 'Dramaturgia';
+    color: yellow;
+}

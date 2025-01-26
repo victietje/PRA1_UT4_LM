@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Equipo>
+    <nombre>FC Barcelona</nombre>
+    <jugadores>
+        <jugador>
+            <nombreJugador>Lamine Yamal</nombreJugador>
+            <posicion>ED</posicion>
+            <nacionalidad>España</nacionalidad>
+            <año>2007</año>
+            <altura>180cm</altura>
+            <peso>72kg</peso>
+        </jugador>
+
+        <jugador>
+            <nombreJugador>Pedri</nombreJugador>
+            <posicion>MC</posicion>
+            <nacionalidad>España</nacionalidad>
+            <año>2002</año>
+            <altura>174cm</altura>
+            <peso>60kg</peso>
+        </jugador>
+        <jugador>
+            <nombreJugador>Gavi</nombreJugador>
+            <posicion>MC</posicion>
+            <nacionalidad>España</nacionalidad>
+            <año>2004</año>
+            <altura>173cm</altura>
+            <peso>70kg</peso>
+        </jugador>  
+        <jugador>
+            <nombreJugador>M. Casadó</nombreJugador>
+            <posicion>MCD</posicion>
+            <nacionalidad>España</nacionalidad>
+            <año>2003</año>
+            <altura>172cm</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombreJugador>Pau Cubarsí</nombreJugador>
+            <posicion>DFC</posicion>
+            <nacionalidad>España</nacionalidad>
+            <año>2007</año>
+            <altura>184cm</altura>
+            <peso>73kg</peso>
+        </jugador>
+    </jugadores>
+    <entrenador>Hansi Flick</entrenador>
+    <estadio>Spotify Camp Nou</estadio>
+</Equipo>

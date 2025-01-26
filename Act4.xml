@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Act4.css"?>
+<poster>
+    <imagen>
+        <actores>
+            <actor1>
+                <nombre>Ewan</nombre>
+                <apellido>MCGREGOR</apellido>
+            </actor1>
+            <actor2>
+                <nombre>Albert</nombre>
+                <apellido>FINNEY</apellido>
+            </actor2>
+            <actor3>
+                <nombre>Billy</nombre>
+                <apellido>GRUDUP</apellido>
+            </actor3>
+            <actor4>
+                <nombre>Jessica</nombre>
+                <apellido>LANGE</apellido>
+            </actor4>
+        </actores>
+        <informacion>
+            <texto>
+                <director>Una película de TIM BURTON</director>
+            </texto>
+            <texto2>
+                <slogan>UNA AVENTURA TAN GRANDE COMO LA VIDA MISMA</slogan>
+            </texto2>
+        </informacion>
+    </imagen>
+</poster>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Act3.css"?>
+<CD>
+    <info>
+        <portada>
+        </portada>
+        <sec>
+            <a1>ARTISTA: </a1>
+            <a2>TÍTULO: </a2>
+            <a3>SELLO: </a3>
+            <a4>AÑO: </a4>
+            <a5>PAIS: </a5>
+            <a6>FORMATO: </a6>
+            <a7>GÉNERO: </a7>
+            <a8>ÁLBUM DEBUT: </a8>
+        </sec>
+        <datos>
+            <artista> Alcalá Norte</artista>
+            <titulo> Alcalá Norte</titulo>
+            <sello> Balaunka</sello>
+            <anyo> 2023</anyo>
+            <pais> España</pais>
+            <formato> CD</formato>
+            <genero> Indie</genero>
+            <observaciones> Álbum debut</observaciones>
+        </datos>
+    </info>
+    <tracklist>
+        <CD>CD 1</CD>
+        <cancion>
+            <num>01</num>
+            <nombre>La sangre del Pobre</nombre>
+            <duracion>3:19</duracion>
+        </cancion>
+        <cancion>
+            <num>02</num>
+            <nombre>Los Chavales</nombre>
+            <duracion>3:29</duracion>
+        </cancion>
+        <cancion>
+            <num>03</num>
+            <nombre>420N</nombre>
+            <duracion>4:06</duracion>
+        </cancion>
+        <cancion>
+            <num>04</num>
+            <nombre>Supermán</nombre>
+            <duracion>2:58</duracion>
+        </cancion>
+        <cancion>
+            <num>05</num>
+            <nombre>Westminster</nombre>
+            <duracion>4:09</duracion>
+        </cancion>
+        <cancion>
+            <num>06</num>
+            <nombre>La Vida Cañón</nombre>
+            <duracion>2:33</duracion>
+        </cancion>
+        <cancion>
+            <num>07</num>
+            <nombre>El Rey De Los Judíos (Un Cosquilleo)</nombre>
+            <duracion>3:05</duracion>
+        </cancion>
+        <cancion>
+            <num>08</num>
+            <nombre>No Llores, Dr G</nombre>
+            <duracion>3:25</duracion>
+        </cancion>
+        <cancion>
+            <num>09</num>
+            <nombre>La Calle Elfo</nombre>
+            <duracion>3:31</duracion>
+        </cancion>
+        <cancion>
+            <num>10</num>
+            <nombre>Langermarck</nombre>
+            <duracion>2:58</duracion>
+        </cancion>
+        <cancion>
+            <num>11</num>
+            <nombre>El Guerrero Marroquí - Bakala Norte Remix</nombre>
+            <duracion>3:37</duracion>
+        </cancion>
+    </tracklist>
+</CD>
